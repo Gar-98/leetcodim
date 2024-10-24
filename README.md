@@ -1,0 +1,2 @@
+# leetcodim
+for smart people
